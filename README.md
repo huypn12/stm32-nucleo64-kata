@@ -1,1 +1,6 @@
-Baka (*ja.* 馬鹿) is a dummy Linux kernel driver. Just for practicing.
+# STM32 Nucleo Kata
+
+Example projects *(kata)* for STM32 Nucleo-64 MCU development board.
+1. Simple projects (LED/joystics)
+2. Read data from sensors
+3. Data transceiving interface.
