@@ -1,6 +1,5 @@
 # STM32 Nucleo Kata
 
 Example projects *(kata)* for STM32 Nucleo-64 MCU development board.
-1. Simple projects (LED/joystics)
-2. Read data from sensors
-3. Data transceiving interface.
+1. LedControl: Toggle LED (LD2) as user push the blue button. 
+2. KY015sensor: Read temperature/humidity data from KY015-DHT1 sensor module.
